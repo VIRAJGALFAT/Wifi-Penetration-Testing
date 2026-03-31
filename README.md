@@ -30,8 +30,6 @@ The lab focuses on practical wireless security testing, including handshake capt
 
 ### 1. Aircrack-ng
 
-![Aircrack-ng](https://upload.wikimedia.org/wikipedia/commons/7/7e/Aircrack-ng-logo.png)
-
 **Purpose:**
 
 * Packet capture
@@ -42,8 +40,6 @@ The lab focuses on practical wireless security testing, including handshake capt
 
 ### 2. Fern WiFi Cracker
 
-![Fern WiFi Cracker](https://raw.githubusercontent.com/savio-code/fern-wifi-cracker/master/fern.png)
-
 **Purpose:**
 
 * Automated wireless security auditing
@@ -52,8 +48,6 @@ The lab focuses on practical wireless security testing, including handshake capt
 ---
 
 ### 3. Wifite
-
-![Wifite](https://raw.githubusercontent.com/derv82/wifite2/master/images/wifite-logo.png)
 
 **Purpose:**
 
@@ -64,8 +58,6 @@ The lab focuses on practical wireless security testing, including handshake capt
 
 ### 4. Kismet
 
-![Kismet](https://www.kismetwireless.net/images/kismet-logo.png)
-
 **Purpose:**
 
 * Wireless network discovery
@@ -75,8 +67,6 @@ The lab focuses on practical wireless security testing, including handshake capt
 
 ### 5. Reaver
 
-![Reaver](https://raw.githubusercontent.com/t6x/reaver-wps-fork-t6x/master/docs/reaver-logo.png)
-
 **Purpose:**
 
 * WPS brute-force attack simulation
@@ -85,8 +75,6 @@ The lab focuses on practical wireless security testing, including handshake capt
 ---
 
 ### 6. Hashcat
-
-![Hashcat](https://hashcat.net/img/hashcat_logo.png)
 
 **Purpose:**
 
