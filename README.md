@@ -179,7 +179,7 @@ red-team
 ## 👨‍💻 Author
 
 **Viraj Galfat**
-Cybersecurity Enthusiast | Penetration Testing | Network Security | Linux
+Cybersecurity Enthusiast| Penetration Testing| Network Security| Linux
 
 ---
 
